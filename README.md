@@ -50,18 +50,20 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![image](https://github.com/user-attachments/assets/85f6c96a-8744-4bc8-afdb-94833c9cf927)
+
 
 ![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot (5)](https://github.com/user-attachments/assets/301fd9b1-335c-4ea8-bf82-4d6482110ab1)
+
 
 ![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot (6)](https://github.com/user-attachments/assets/a8f5b2c6-711d-413f-b0bb-bf8910d5b16c)
+
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+![Screenshot (7)](https://github.com/user-attachments/assets/8e57f6e3-0ddd-4347-9cfc-e06dbb517709)
+
 
 For Hardware:
 
@@ -83,15 +85,7 @@ For Hardware:
 *Explain the build steps*
 
 ![Final](Add photo of final product here)
-*Explain the final build*
 
-### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
 - [Name 1]: [Specific contributions]
