@@ -44,7 +44,7 @@ For Hardware:
 For Software:
 
 # Screenshots (Add at least 3)
-![image](https://github.com/user-attachments/assets/85f6c96a-8744-4bc8-afdb-94833c9cf927)
+![Screenshot (4)](https://github.com/user-attachments/assets/8a6cdf50-020e-4cd3-a2e9-161cde476b45)
 
 
 ![Screenshot2](Add screenshot 2 here with proper name)
