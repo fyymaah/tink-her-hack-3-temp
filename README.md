@@ -11,7 +11,7 @@
 - Member 3: [mariyamath fahida] - [lbs college of engineering,kasaragod]
 
 ### Hosted Project Link
-[mention your project hosted project link here]
+[https://fyymaah.github.io/QuickFit/]
 
 ### Project Description
 [QuickFit is a website designed to help people with busy schedule maintain a healthy lifestyle]
