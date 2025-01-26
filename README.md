@@ -1,4 +1,4 @@
-# [Project Name] 🎯
+![team](https://github.com/user-attachments/assets/c41519db-7a46-44f2-9733-2c6d32dbc3b7)# [Project Name] 🎯
 
 
 ## Basic Details
@@ -38,13 +38,7 @@ For Hardware:
 - [laptop]
 - [github]
 
-### Implementation
-For Software:
-# Installation
-[commands]
 
-# Run
-[commands]
 
 ### Project Documentation
 For Software:
@@ -75,11 +69,8 @@ For Hardware:
 *Add caption explaining the schematic*
 
 # Build Photos
-![Team](Add photo of your team here)
+![team](https://github.com/user-attachments/assets/942c269e-4bfb-46e7-b6fc-f28db8db102c)
 
-
-![Components](Add photo of your components here)
-*List out all components shown*
 
 ![Build](Add photos of build process here)
 *Explain the build steps*
@@ -88,9 +79,9 @@ For Hardware:
 
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [faheema]: [coding]
+- [fahida]: [debug]
+- [nafla]: [design]
 
 ---
 Made with ❤️ at TinkerHub
