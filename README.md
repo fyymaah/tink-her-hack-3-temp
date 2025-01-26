@@ -79,9 +79,9 @@ For Hardware:
 
 
 ## Team Contributions
-- [faheema]: [coding]
-- [fahida]: [debug]
-- [nafla]: [design]
+-![faheema]: [coding]
+- ![fahida]: [debug]
+- ![nafla]: [design]
 
 ---
 Made with ❤️ at TinkerHub
