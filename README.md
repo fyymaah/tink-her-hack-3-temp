@@ -1,4 +1,4 @@
-# [Project Name] 🎯
+# [QuickFit] 🎯
 
 
 ## Basic Details
